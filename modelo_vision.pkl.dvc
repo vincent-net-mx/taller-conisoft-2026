@@ -1,0 +1,5 @@
+outs:
+- md5: c59c76ee1f137a4355d82693a29eb652
+  size: 131225
+  hash: md5
+  path: modelo_vision.pkl
